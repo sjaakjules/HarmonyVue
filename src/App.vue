@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to you life of tax!"/>
+  <h1>Vue rocks</h1>
 </template>
 
 <script>
